@@ -4,7 +4,7 @@ QBCore Sellitems Script
 Made with help of qb-template
 
 **Functions**
-Designed for selling items from my goldpanning script
+Designed for selling items
 
 **Dependencies**
 
